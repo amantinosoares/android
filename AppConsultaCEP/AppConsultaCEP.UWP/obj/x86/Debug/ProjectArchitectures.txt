@@ -1,0 +1,1 @@
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP.UWP\AppConsultaCEP.UWP.csproj;x86

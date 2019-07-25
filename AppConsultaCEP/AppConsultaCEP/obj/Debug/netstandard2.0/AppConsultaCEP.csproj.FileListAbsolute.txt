@@ -1,0 +1,14 @@
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\bin\Debug\netstandard2.0\AppConsultaCEP.deps.json
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\bin\Debug\netstandard2.0\AppConsultaCEP.dll
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\AppConsultaCEP.csproj.CoreCompileInputs.cache
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\AppConsultaCEP.AssemblyInfoInputs.cache
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\AppConsultaCEP.AssemblyInfo.cs
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\bin\Debug\netstandard2.0\ref\AppConsultaCEP.dll
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\bin\Debug\netstandard2.0\AppConsultaCEP.pdb
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\AppConsultaCEP.dll
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\ref\AppConsultaCEP.dll
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\AppConsultaCEP.pdb
+D:\Projetos\android\AppConsultaCEP\AppConsultaCEP\obj\Debug\netstandard2.0\AppConsultaCEP.csprojAssemblyReference.cache
