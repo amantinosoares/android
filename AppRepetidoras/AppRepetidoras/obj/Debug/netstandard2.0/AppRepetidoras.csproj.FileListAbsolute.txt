@@ -1,0 +1,14 @@
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\bin\Debug\netstandard2.0\AppRepetidoras.deps.json
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\bin\Debug\netstandard2.0\AppRepetidoras.dll
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\bin\Debug\netstandard2.0\ref\AppRepetidoras.dll
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\bin\Debug\netstandard2.0\AppRepetidoras.pdb
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\AppRepetidoras.csprojAssemblyReference.cache
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\AppRepetidoras.csproj.CoreCompileInputs.cache
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\AppRepetidoras.AssemblyInfoInputs.cache
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\AppRepetidoras.AssemblyInfo.cs
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\AppRepetidoras.dll
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\ref\AppRepetidoras.dll
+D:\Projetos\android\AppRepetidoras\AppRepetidoras\obj\Debug\netstandard2.0\AppRepetidoras.pdb
